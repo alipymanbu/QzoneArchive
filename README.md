@@ -12,8 +12,8 @@ AI collaborators: please read AGENTS.md for project-specific instructions, archi
 
 逆转时间的公式。将 QQ 空间动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。
 
-[**详细使用教程**](https://www.bilibili.com/video/BV1p7MZ6xEfk) 
-[**网盘下载地址**](https://pan.quark.cn/s/69baf8c8aadc)
+<!-- [**详细使用教程**](https://www.bilibili.com/video/BV1p7MZ6xEfk)  -->
+<!-- [**网盘下载地址**](https://pan.quark.cn/s/69baf8c8aadc) -->
 
 > [!CAUTION]
 > **近期出现因使用非仓库来源软件而导致账号信息泄露的情况，请务必仔细甄别软件来源。除本仓库发布的内容外，任何其他来源的程序均不可信，请勿下载或使用。**
