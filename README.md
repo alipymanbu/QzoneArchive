@@ -12,6 +12,14 @@ AI collaborators: please read AGENTS.md for project-specific instructions, archi
 
 逆转时间的公式。将 QQ 空间动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。
 
+## 项目来源与署名
+
+本仓库是基于 [Gaoshu705/QzoneArchive](https://github.com/Gaoshu705/QzoneArchive) 的个人改良版（派生项目）。原项目作者、项目名称、许可证和原始功能归原作者所有；本仓库不声称拥有原项目的著作权。
+
+原项目作者：Gaoshu705
+
+原项目地址：[https://github.com/Gaoshu705/QzoneArchive](https://github.com/Gaoshu705/QzoneArchive)
+
 <!-- [**详细使用教程**](https://www.bilibili.com/video/BV1p7MZ6xEfk)  -->
 <!-- [**网盘下载地址**](https://pan.quark.cn/s/69baf8c8aadc) -->
 
